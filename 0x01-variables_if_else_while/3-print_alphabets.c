@@ -17,3 +17,4 @@ putchar(alp[i+26]);
 }
 putchar('\n');
 return (0);
+}
