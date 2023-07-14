@@ -13,6 +13,7 @@ int i;
 for (i = 0; i < 52; i++)
 {
 putchar(alp[i]);
+putchar(alp[i+26])
 }
 putchar('\n');
 return (0);
